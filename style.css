@@ -1,0 +1,16 @@
+.rounded-image {
+    border-radius: 50%;
+    float: left;
+}
+.image-box {
+    display: flex;
+    align-items: flex-start; /* Align image to the top */
+}
+.image-box img {
+    max-width: 150px; /* Adjust the image size as needed */
+    margin-right: 20px; /* Add spacing between the image and text */
+}
+i{
+    color: black;
+    margin-right: 20px;
+}
